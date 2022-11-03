@@ -1,0 +1,2 @@
+# Collaborative_AI_IN_Public_Blockchain_Network
+Decentralized Collaborative Artificial Intelligence
